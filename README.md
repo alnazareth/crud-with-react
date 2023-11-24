@@ -4,6 +4,20 @@ A simple CRUD with React
 
 Pasos para ejecutar el proyecto:
 
+los comandos para iniciar el proyecto fueron los siguientes:
+
+Para crear el proyecto:
+
+*)npx create-react-app react-crud
+cd react-crud
+
+
+*)Instalar react-bootstrap 
+npm install react-bootstrap bootstrap
+
+*)Instalar json-server para simular un backend:
+npm install -g json-server
+
 1)Dirigirse a la raiz del proyecto.
 
 2)Abrir dos terminales cmd,
