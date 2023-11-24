@@ -12,10 +12,12 @@ Para crear el proyecto:
 cd react-crud
 
 
-*)Instalar react-bootstrap 
+*)Instalar react-bootstrap :
+
 npm install react-bootstrap bootstrap
 
 *)Instalar json-server para simular un backend:
+
 npm install -g json-server
 
 1)Dirigirse a la raiz del proyecto.
