@@ -4,6 +4,7 @@ A simple CRUD with React
 Pasos para ejecutar el proyecto:
 
 1)Dirigirse a la raiz del proyecto.
+
 2)Abrir dos terminales cmd,
  en el primero correr el siguiente comando:
 
